@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: srs-cloudeka-vpc-kubernetes-core-validation
+  description: SRS Cloudeka VPC on Kubernetes  Core Validation v 0.0.4
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Lintasarta/srs-cloudeka_vpc_kubernetes_core_validation-v1.0
+    # PERHATIKAN INDENTASI: Baris di bawah if harus sejajar dengan github.com...
+spec:
+  type: service
+  lifecycle: production
+  owner: user:default/afi
