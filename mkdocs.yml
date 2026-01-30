@@ -5,7 +5,7 @@ nav:
   - Home: index.md
   - Introduction: 
       - Purpose of the Document: introduction/purpose-of-the-document.md
-      - Glossary: introduction/glosarry.md
+      - Glossary: introduction/glossary.md
   - Description:
       - Product Overview: description/product-overview.md
       - Product Features: description/product-features.md
