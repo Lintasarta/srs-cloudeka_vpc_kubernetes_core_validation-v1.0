@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-cloudeka-vpc-kubernetes-core-validation
   description: SRS Cloudeka VPC on Kubernetes  Core Validation v 0.0.4
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-cloudeka_vpc_kubernetes_core_validation-v1.0

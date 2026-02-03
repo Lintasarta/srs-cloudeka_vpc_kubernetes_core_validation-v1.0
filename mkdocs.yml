@@ -3,24 +3,41 @@ site_description: SRS Cloudeka VPC on Kubernetes  Core Validation v 0.0.4
 
 nav:
   - Home: index.md
-  - Overview:
-      - What's New: overview/whats-new.md
-      - Roadmap: overview/roadmap.md
-      - Architecture: overview/architecture.md
-      - Key Features: overview/key-features.md
-  - Getting Started:
-      - Prerequisites: getting-started/prerequisites.md
-      - Installation: getting-started/installation.md
-      - Deployment: getting-started/deployment.md
-  - User Guide:
-      - Configuration: user-guide/configuration.md
-      - How to Use: user-guide/how-to-use.md
-  - Operations:
-      - Testing: operations/testing.md
-      - Troubleshooting: operations/troubleshooting.md
-      - FAQ: operations/faq.md
-  - Glossary: glossary.md
-  - Reference: reference.md
+  - Introduction: 
+      - Purpose of the Document: introduction/purpose-of-the-document.md
+      - Glossary: introduction/glossary.md
+  - Description:
+      - Product Overview: description/product-overview.md
+      - Product Features: description/product-features.md
+      - User Documentation: description/documentation.md
+  - Interface Requirement:
+      - Interface Requirement: interface-requirement/interface-requirement.md
+  - Functional Requirement:
+    - Functional Requirement Table: functional-requirement/functional-requirement-table.md
+    - Use Case Diagram: functional-requirement/use-case-diagram.md
+    - Use Case Description: functional-requirement/use-case-description.md
+  - Non-Functional Requirements:
+      - Non-Functional Requirements: non-functional-requirements/non-functional-requirements.md
+  - Appendix:
+      - Appendix: appendix/appendix.md
+  #- Overview:
+      #- What's New: overview/whats-new.md
+      #- Roadmap: overview/roadmap.md
+      #- Architecture: overview/architecture.md
+      #- Key Features: overview/key-features.md
+  #- Getting Started:
+      #- Prerequisites: getting-started/prerequisites.md
+      #- Installation: getting-started/installation.md
+      #- Deployment: getting-started/deployment.md
+  #- User Guide:
+      #- Configuration: user-guide/configuration.md
+      #- How to Use: user-guide/how-to-use.md
+  #- Operations:
+      #- Testing: operations/testing.md
+      #- Troubleshooting: operations/troubleshooting.md
+      #- FAQ: operations/faq.md
+  #- Glossary: glossary.md
+  #- Reference: reference.md
 
 theme:
   name: material
